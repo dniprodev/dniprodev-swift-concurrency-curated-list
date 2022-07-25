@@ -2,8 +2,7 @@
 
 ## Docs
 * [Concurrency](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html#)
-* [Swift Async Aalgorithm](https://www.swift.org/blog/swift-async-algorithms)
-* [concurrency-in-swift-5-and-6](https://forums.swift.org/t/concurrency-in-swift-5-and-6/49337)
+* [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
 * [Swift Concurrency Videos](https://alejandromp.com/blog/swift-concurrency/)
 * Andy Ibanez
   * [Modern Concurrency in Swift: Introduction](https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/)
@@ -14,9 +13,10 @@
   * [unstructured concurrency](https://cur.at/rIcsUDv?m=email&sid=ihCLEvU), 
   * [detached tasks](https://cur.at/e5w6lYT?m=email&sid=ihCLEvU)
   * [actors](https://cur.at/SNlJFjD?m=email&sid=ihCLEvU)
+* [concurrency-in-swift-5-and-6](https://forums.swift.org/t/concurrency-in-swift-5-and-6/49337)
 
 ### More
-* [What is structured concurrency?](https://oleb.net/2021/structured-concurrency/)
+* [Swift Async Aalgorithm](https://www.swift.org/blog/swift-async-algorithms)
 * [The importance of cooperative cancellation](https://cur.at/f4RRwe?m=email&sid=ihCLEvU)
 
 ## Real World Examples
